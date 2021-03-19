@@ -15,4 +15,4 @@
    
    To view the output of this project click the below Link.
    
-   [View](http://jaife.cf/Library Management System)
+   [View](http://jaife.cf/Library%20Management%20System)
