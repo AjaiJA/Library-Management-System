@@ -1,7 +1,7 @@
 ## Library-Management-System
-    This Application is created to make an user friendly Web Application for Librarians,
-    Librarians are allowed to add and modify books,members and status of the book in the system, 
-    Database with tables are allocated for each libraries.
+This Application is created to make an user friendly Web Application for Librarians,
+Librarians are allowed to add and modify books,members and status of the book in the system, 
+Database with tables are allocated for each libraries.
     
    The Tech Used to done this project are as follows ,
   -  HTML / CSS
@@ -11,6 +11,6 @@
   -  PHP
   -  MySQL
    
-   To view the output of this project click the below Link.
+   To view the Input / output of this project, click the below Links...
    
    [Source Code](https://bitbucket.org/AjaiJA/workspace/projects/LMS) | [View](http://jaife.cf/Library%20Management%20System)
