@@ -13,4 +13,4 @@
    
    To view the output of this project click the below Link.
    
-   [Source Code](https://bitbucket.org/AjaiJA/workspace/projects/LMS)[View](http://jaife.cf/Library%20Management%20System)
+   [Source Code](https://bitbucket.org/AjaiJA/workspace/projects/LMS) | [View](http://jaife.cf/Library%20Management%20System)
