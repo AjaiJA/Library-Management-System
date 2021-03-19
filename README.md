@@ -13,4 +13,4 @@ Database with tables are allocated for each libraries.
    
    To view the Input / output of this project, click the below Links...
    
-   [Source Code](https://bitbucket.org/AjaiJA/workspace/projects/LMS) | [View](http://jaife.cf/Library%20Management%20System)
+   [Source Code target="_blank"](https://bitbucket.org/AjaiJA/workspace/projects/LMS) | [View](http://jaife.cf/Library%20Management%20System)
