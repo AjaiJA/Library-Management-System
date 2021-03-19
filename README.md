@@ -4,15 +4,13 @@
     Database with tables are allocated for each libraries.
     
     The Tech Used to done this project are as follows ,
-      HTML / CSS
-      Bootstrap
-      SCSS
-      JavaScript, AJAX
-      PHP
-      MySQL
-    
-   [Source Code](https://bitbucket.org/AjaiJA/workspace/projects/LMS)
+      - HTML / CSS
+      - Bootstrap
+      - SCSS
+      - JavaScript, AJAX
+      - PHP
+      - MySQL
    
    To view the output of this project click the below Link.
    
-   [View](http://jaife.cf/Library%20Management%20System)
+   [Source Code](https://bitbucket.org/AjaiJA/workspace/projects/LMS)[View](http://jaife.cf/Library%20Management%20System)
